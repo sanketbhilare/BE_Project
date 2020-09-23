@@ -1,6 +1,6 @@
 # BE Project
 
-1. **object-detection**  :  Contains the android app for object detection.
+1. **object_detection**  :  Contains the android app for object detection.
 
 2. **ESP_ultrasonic.ino** : Contains the code for ESP32 and ultrasonic integration.
 
