@@ -1,0 +1,3 @@
+[submodule "object_detection/android"]
+	path = object_detection/android
+	url = https://git@github.com:sanketbhilare/BE_Project.git
